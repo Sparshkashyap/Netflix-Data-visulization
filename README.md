@@ -39,7 +39,10 @@ It uses **Python, Pandas, Matplotlib, and Seaborn** to clean data, generate insi
 
 ## 📂 Project Structure  
 
----
+--Netflix-Project:
+-Data-visulization-netflix.ipynb
+-Netflix_Dataset.csv
+-Images
 
 ## 🔮 Key Insights  
 - 📈 Netflix content peaked in 2019.  
@@ -48,9 +51,9 @@ It uses **Python, Pandas, Matplotlib, and Seaborn** to clean data, generate insi
 
 ---
 
-## 🎥 Demo GIF (Notebook in Action)  
+## 🎥 Data Visulization between Movie and TV Shows  
 
 <p align="center">
-  <img src="your_demo_gif.gif" width="700"/>
+  <img src="https://github.com/Sparshkashyap/Netflix-Data-visulization/blob/main/Movie_vs_Tv_shows.png" width="700"/>
 </p>
 
