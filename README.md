@@ -30,7 +30,7 @@ It uses **Python, Pandas, Matplotlib, and Seaborn** to clean data, generate insi
 ## 📈 Sample Visualizations  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr2gVfYyWc0zaw/giphy.gif" width="500"/>
+  <img src="https://github.com/Sparshkashyap/Netflix-Data-visulization/blob/main/Content_Rating_pie.png" width="500"/>
 </p>  
 
 *(You can replace the above GIF with your own chart animation or PNG screenshot.)*
